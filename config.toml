@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My new Site with CMS and Blog"
+theme = "plain"
+[permalinks]
+  posts = "/:year/:month/:slug"
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

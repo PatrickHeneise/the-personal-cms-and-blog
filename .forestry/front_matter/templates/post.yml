@@ -1,0 +1,23 @@
+---
+label: post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: featuredimage
+  label: featuredImage
+- type: image_gallery
+  name: images
+  label: images
+- type: tag_list
+  name: tags
+  label: tags
