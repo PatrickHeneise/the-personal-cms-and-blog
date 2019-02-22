@@ -6,7 +6,7 @@ Boilerplate for Hugo generated CMS with Netlify deploy config and Forestry.io co
 
 ## Preview
 
-    https://goofy-mccarthy-50cd43.netlify.com
+  https://goofy-mccarthy-50cd43.netlify.com
 
 ## How to Deploy Your Own Website, CMS and Blog
 
