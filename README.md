@@ -21,3 +21,7 @@ Boilerplate for Hugo generated CMS with Netlify deploy config and Forestry.io co
 - Add blog content with `hugo new posts/your-new-post.md` or go to Forestry.io and manage your blog from there
 - Add new pages
 - Add your own domain on Netlify.
+
+## Import Data
+
+- Import all posts from Medium: https://github.com/xdamman/mediumexporter
