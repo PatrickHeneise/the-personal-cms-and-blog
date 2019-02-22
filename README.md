@@ -10,7 +10,7 @@ Boilerplate for Hugo generated CMS with Netlify deploy config and Forestry.io CM
 
 ## How to Deploy Your Own Website, CMS and Blog
 
-1. Fork this repository (private or public)
+1. Fork or clone this repository (private or public)
 2. Register with [Forestry.io](Forestry.io) and import the site (no config needed)
 3. Register with [Netlify](netlify.com) and deploy the site (no config needed)
 4. Done
